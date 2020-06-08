@@ -53,12 +53,6 @@ filters = {
       'Comparison': 'PREFIX'
     }
   ],
-  #'AwsAccountId':[
-  #  {
-  #    'Value': 'accountids',
-  #    'Comparison': 'EQUALS'
-  #  }
-  #],
   'ProductName':[
     {
       'Value': 'Inspector',
