@@ -1,4 +1,2 @@
 # inspector
-AWS Inspector functions and scripts
-
-inspector_findings.py sends AWS Security Hub get_findings to SNS
+This Repository will be used for inspector_findings.py which sends AWS Security Hub findings to SNS
